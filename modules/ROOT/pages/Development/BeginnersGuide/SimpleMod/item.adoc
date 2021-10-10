@@ -19,10 +19,6 @@ Open the class and you should see the default settings of the classes' attribute
 
 * {blank}
 +
-M Use Display Name and Description::
-  Because we have just a simple Item we need to check this (set the boolean to true) so that the item name and description are used directly.
-* {blank}
-+
 M Display Name::
   The item's name in game.
   We'll set this to "Doc Item".
